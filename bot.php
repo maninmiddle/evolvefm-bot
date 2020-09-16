@@ -11,7 +11,7 @@ $pass = ''; // Пароль для авторизации к БД
 $bdname = ''; // ИМЯ базы данных
 $vk_key = ''; // Длинный ключ сообщества, который мы получим чуть позже
 $confirm = ''; // СТРОКА которую должен вернуть сервер
-$v = ''; // Версия API, последняя на сегодняшнее число, оставлять таким если на новых работать в будущем не будет
+$v = '5.103'; // Версия API, последняя на сегодняшнее число, оставлять таким если на новых работать в будущем не будет
 $db = Mysql::create($host, $name, $pass)->setDatabaseName($bdname)->setCharset('utf8mb4');
 $vk = vk_api::create($vk_key, $v)->setConfirm($confirm);
 $my_msg = new Message($vk);
@@ -279,7 +279,7 @@ switch ($payload) // Проще говоря мы загрузили кнопк�
         $vk->sendButton($peer_id, "Выберите кейс", [[$eco], [$steel], [$nomuro], [$nazad]]);
     break;
 
-    case 'eco';
+    case 'eco':
     $sum = 350;
     $sum = 350;
     $trash = 20;
@@ -302,7 +302,7 @@ switch ($payload) // Проще говоря мы загрузили кнопк�
         $db->query('UPDATE users SET promocase = ?i WHERE vk_id = ?i', $null, $id);
     }
 break;
-case 'steel';
+case 'steel':
 $sum = 500;
 $sum = 500;
 $trash = 100;
@@ -325,7 +325,7 @@ else
     $db->query('UPDATE users SET promocase = ?i WHERE vk_id = ?i', $null, $id);
 }
 break;
-case 'nomuro';
+case 'nomuro':
 $sum = 999;
 $sum = 999;
 $trash = 300;
@@ -349,7 +349,7 @@ else
 }
 break;
 
-case 'freecase';
+case 'freecase':
 $promocase = $id_reg_check = $db->query('SELECT promocase FROM users WHERE vk_id = ?i', $id)->fetch_assoc() ['promocase'];
 if ($promocase == 0)
 {
@@ -376,13 +376,13 @@ else
 break;
     ////////// cases //////////////////////////////////////////////////// cases //////////////////////////////////////////
     
-case 'help2';
+case 'help2':
 $vk->sendMessage($peer_id, "$userinfo[first_name], если вы хотите услышать любимую песню в эфире или передать привет - в игре слева в нижнем углу есть ник-нейм ведущего, пишите ему в СМС, с вашими предложениями. 
 Если же Вы с другого сервера - всё там же в левом нижнем углу расположена ссылка на VK радиоведущего, напишите ему туда.
 С уважением, EVOLVE FM", [$nazad]);
 break;
 
-case 'help3';
+case 'help3':
 $vk->sendMessage($peer_id, "$userinfo[first_name], чтобы получить заветные 100 рублей на личный кабинет Вы должны выиграть в еженедельной номинации на 3 призовых места, а именно: 
 - Лайкер недели (Пролайкать больше всех постов за неделю) 
 - Репостер недели (Сделать больше всех репостов за неделю) 
@@ -390,11 +390,11 @@ $vk->sendMessage($peer_id, "$userinfo[first_name], чтобы получить �
 С уважением, EVOLVE FM", [$nazad]);
 break;
 
-case 'ins';
+case 'ins':
 $vk->sendButton($peer_id, "Вы попали в магазин инструментов", [[$gitara], [$skripka], [$royal], [$nabor], [$truba], [$nazad]]);
 break;
 
-case 'profile';
+case 'profile':
 $evilcoin = $db->query('SELECT evilcoin FROM users WHERE vk_id = ?i', $id)->fetch_assoc() ['evilcoin'];
 $balance = $db->query('SELECT balance FROM users WHERE vk_id = ?i', $id)->fetch_assoc() ['balance'];
 $nick = $db->query('SELECT nick FROM users WHERE vk_id = ?i', $id)->fetch_assoc() ['nick'];
@@ -405,26 +405,24 @@ $vk->sendMessage($peer_id, "Ваш профиль
             👑 Ник: $nick.
             
            💰 Баланс: $balance EFM Coins.
-
            🔑 VIP: $vipka.
-
            👾 Ваш статус: $whois.
            
            ");
 break;
 
-case 'balans';
+case 'balans':
 $balance = $db->query('SELECT balance FROM users WHERE vk_id = ?i', $id)->fetch_assoc() ['balance']; // вытягиваем весь баланс
 $vk->sendMessage($peer_id, "Ваш баланс: $balance EFM Coins");
 
 break;
     ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     
-case 'mini';
+case 'mini':
 $vk->sendButton($peer_id, "Вы попали в меню мини-игр 🕹", [[$kazik], [$cases], [$nazad]]);
 break;
 
-case 'gitara';
+case 'gitara':
 $status = $db->query('SELECT status FROM users WHERE vk_id = ?i', $id)->fetch_assoc() ['status']; // вытягиваем весь баланс
 $evilcoin = $db->query('SELECT evilcoin FROM users WHERE vk_id = ?i', $id)->fetch_assoc() ['evilcoin']; // вытягиваем весь баланс
 if ($evilcoin < 0.000040)
@@ -441,7 +439,7 @@ break;
     // trade system //
     // trade system end //
     
-case 'nabor';
+case 'nabor':
 $evilcoin = $db->query('SELECT evilcoin FROM users WHERE vk_id = ?i', $id)->fetch_assoc() ['evilcoin']; // вытягиваем весь баланс
 if ($evilcoin < 0.001500)
 {
@@ -455,7 +453,7 @@ else
 }
 break;
 
-case 'royal';
+case 'royal':
 $evilcoin = $db->query('SELECT evilcoin FROM users WHERE vk_id = ?i', $id)->fetch_assoc() ['evilcoin']; // вытягиваем весь баланс
 if ($evilcoin < 0.001250)
 {
@@ -468,7 +466,7 @@ else
     $vk->sendButton($peer_id, "Вы успешно купили рояль. С вашего баланса снято 0.001250 E Coin", [[$nazad]]);
 }
 break;
-case 'skripka';
+case 'skripka':
 $evilcoin = $db->query('SELECT evilcoin FROM users WHERE vk_id = ?i', $id)->fetch_assoc() ['evilcoin']; // вытягиваем весь баланс
 if ($evilcoin < 0.000350)
 {
@@ -482,7 +480,7 @@ else
 }
 break;
 
-case 'truba';
+case 'truba':
 $evilcoin = $db->query('SELECT evilcoin FROM users WHERE vk_id = ?i', $id)->fetch_assoc() ['evilcoin']; // вытягиваем весь баланс
 if ($evilcoin < 0.025000)
 {
@@ -496,24 +494,24 @@ else
 }
 break;
 
-case 'press';
+case 'press':
 $db->query('UPDATE users SET evilcoin = evilcoin + coors WHERE vk_id = ?i', $id);
 $coors = $db->query('SELECT coors FROM users WHERE vk_id = ?i', $id)->fetch_assoc() ['coors'];
 $vk->sendMessage($peer_id, "+ $coors E Coin");
 break;
 
-case 'evilcoin';
+case 'evilcoin':
 #    $vk->sendButton($peer_id, "Ошибка 408, возможно данная функция не была включена.
 #   Обратитесь к Администрации.", [[$nazad]]);
 $vk->sendButton($peer_id, "Вы попали в меню Evil Coin", [[$press], [$ins], [$nazad]]);
 break;
     //////////////////////////////////////////////////////////////////////////////////////////////////////////////////
     
-case 'kazik';
+case 'kazik':
 $vk->sendButton($peer_id, "Вы вошли в казино", [[$igra], [$nazad]]);
 break;
 
-case 'igra';
+case 'igra':
 
 if ($cmd[1] == 'все' or $cmd[1] == 'всё')
 { // Если указано все
@@ -556,19 +554,19 @@ else
 
 break;
 
-case 'nazad';
+case 'nazad':
 $vk->sendButton($peer_id, "Вы вернулись в меню, выбирайте :-)", [[$profile], [$mini, $magaz], [$bonus], [$dop]]);
 break;
 
-case 'prid';
+case 'prid':
 $vk->sendButton($peer_id, "Введите промокод ", [[$nazad]]);
 break;
 
-case 'magaz';
+case 'magaz':
 $vk->sendButton($peer_id, "Выберите нужный пункт", [[$vivod], [$nazad]]);
 break;
 
-case 'vivod';
+case 'vivod':
 $balance = $db->query('SELECT balance FROM users WHERE vk_id = ?i', $id)->fetch_assoc() ['balance']; // вытягиваем весь баланс
 if ($balance < $minsum)
 {
@@ -582,4 +580,3 @@ else
     break;
 }
 }
-
