@@ -1,6 +1,13 @@
 # Evolve FM Bot
 
-### Функции:
-- 1
-- 2
-- 3
+## Language: ru
+
+### Features:
+- Daily bonus
+- Profile
+- Mini Games
+  - Casino 
+  - Cases
+- Promo codes
+- Help menu 
+- Shop
