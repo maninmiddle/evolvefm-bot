@@ -1,0 +1,98 @@
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":5,"error_msg":"User authorization failed: invalid access_token (4).","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"2000000009"},{"key":"v","value":"5.103"},{"key":"random_id","value":"605680867"}]}}
+[Exception]: код ошибки: 5
+[Exception]: файл: /home/f0457801/domains/f0457801.xsph.ru/public_html/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /home/f0457801/domains/f0457801.xsph.ru/public_html/simplevk-master/src/vk_api.php(393): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /home/f0457801/domains/f0457801.xsph.ru/public_html/bot.php(181): DigitalStar\vk_api\vk_api->sendMessage(2000000009, '\xD0\x92\xD1\x8B \xD1\x83\xD0\xB6\xD0\xB5 \xD0\xB1\xD1...')
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":5,"error_msg":"User authorization failed: invalid access_token (4).","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"2000000009"},{"key":"v","value":"5.103"},{"key":"random_id","value":"2029527605"}]}}
+[Exception]: код ошибки: 5
+[Exception]: файл: /home/f0457801/domains/f0457801.xsph.ru/public_html/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /home/f0457801/domains/f0457801.xsph.ru/public_html/simplevk-master/src/vk_api.php(393): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /home/f0457801/domains/f0457801.xsph.ru/public_html/bot.php(361): DigitalStar\vk_api\vk_api->sendMessage(2000000009, '\xD0\x92\xD0\xB0\xD1\x88 \xD0\xBF\xD1\x80\xD0\xBE\xD1\x84...')
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":5,"error_msg":"User authorization failed: invalid access_token (4).","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"2000000009"},{"key":"v","value":"5.103"},{"key":"random_id","value":"-1200569172"}]}}
+[Exception]: код ошибки: 5
+[Exception]: файл: /home/f0457801/domains/f0457801.xsph.ru/public_html/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /home/f0457801/domains/f0457801.xsph.ru/public_html/simplevk-master/src/vk_api.php(393): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /home/f0457801/domains/f0457801.xsph.ru/public_html/bot.php(181): DigitalStar\vk_api\vk_api->sendMessage(2000000009, '\xD0\x92\xD1\x8B \xD1\x83\xD0\xB6\xD0\xB5 \xD0\xB1\xD1...')
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":5,"error_msg":"User authorization failed: invalid access_token (4).","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"2000000009"},{"key":"keyboard","value":"{\"one_time\":false,\"buttons\":[[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"kazik\\\"}\",\"label\":\"\ud83d\udcb4 \u041a\u0430\u0437\u0438\u043d\u043e\"},\"color\":\"primary\"}],[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"cases\\\"}\",\"label\":\"\ud83d\udce6 \u041a\u0435\u0439\u0441\u044b\"},\"color\":\"positive\"}],[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"nazad\\\"}\",\"label\":\"\u041d\u0430\u0437\u0430\u0434 \ud83c\udf99 \"},\"color\":\"default\"}]],\"inline\":false}"},{"key":"v","value":"5.103"},{"key":"random_id","value":"-152453256"}]}}
+[Exception]: код ошибки: 5
+[Exception]: файл: /home/f0457801/domains/f0457801.xsph.ru/public_html/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /home/f0457801/domains/f0457801.xsph.ru/public_html/simplevk-master/src/vk_api.php(420): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /home/f0457801/domains/f0457801.xsph.ru/public_html/bot.php(374): DigitalStar\vk_api\vk_api->sendButton(2000000009, '\xD0\x92\xD1\x8B \xD0\xBF\xD0\xBE\xD0\xBF\xD0\xB0\xD0\xBB...', Array)
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":5,"error_msg":"User authorization failed: invalid access_token (4).","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"2000000009"},{"key":"v","value":"5.103"},{"key":"random_id","value":"1428248901"}]}}
+[Exception]: код ошибки: 5
+[Exception]: файл: /home/f0457801/domains/f0457801.xsph.ru/public_html/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /home/f0457801/domains/f0457801.xsph.ru/public_html/simplevk-master/src/vk_api.php(393): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /home/f0457801/domains/f0457801.xsph.ru/public_html/bot.php(361): DigitalStar\vk_api\vk_api->sendMessage(2000000009, '\xD0\x92\xD0\xB0\xD1\x88 \xD0\xBF\xD1\x80\xD0\xBE\xD1\x84...')
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":5,"error_msg":"User authorization failed: invalid access_token (4).","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"2000000009"},{"key":"keyboard","value":"{\"one_time\":false,\"buttons\":[[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"prid\\\"}\",\"label\":\"\ud83d\udd25 \u041f\u0440\u043e\u043c\u043e\u043a\u043e\u0434\u044b\"},\"color\":\"negative\"}],[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"helpme\\\"}\",\"label\":\"\u041f\u043e\u043c\u043e\u0449\u044c\"},\"color\":\"positive\"}],[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"nazad\\\"}\",\"label\":\"\u041d\u0430\u0437\u0430\u0434 \ud83c\udf99 \"},\"color\":\"default\"}]],\"inline\":false}"},{"key":"v","value":"5.103"},{"key":"random_id","value":"-1800957133"}]}}
+[Exception]: код ошибки: 5
+[Exception]: файл: /home/f0457801/domains/f0457801.xsph.ru/public_html/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /home/f0457801/domains/f0457801.xsph.ru/public_html/simplevk-master/src/vk_api.php(420): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /home/f0457801/domains/f0457801.xsph.ru/public_html/bot.php(187): DigitalStar\vk_api\vk_api->sendButton(2000000009, '\xD0\x92\xD1\x8B \xD0\xBF\xD0\xBE\xD0\xBF\xD0\xB0\xD0\xBB...', Array)
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":5,"error_msg":"User authorization failed: invalid access_token (4).","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"2000000009"},{"key":"v","value":"5.103"},{"key":"random_id","value":"-776341553"}]}}
+[Exception]: код ошибки: 5
+[Exception]: файл: /home/f0457801/domains/f0457801.xsph.ru/public_html/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /home/f0457801/domains/f0457801.xsph.ru/public_html/simplevk-master/src/vk_api.php(393): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /home/f0457801/domains/f0457801.xsph.ru/public_html/bot.php(361): DigitalStar\vk_api\vk_api->sendMessage(2000000009, '\xD0\x92\xD0\xB0\xD1\x88 \xD0\xBF\xD1\x80\xD0\xBE\xD1\x84...')
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":5,"error_msg":"User authorization failed: invalid access_token (4).","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"2000000009"},{"key":"v","value":"5.103"},{"key":"random_id","value":"1049798335"}]}}
+[Exception]: код ошибки: 5
+[Exception]: файл: /home/f0457801/domains/f0457801.xsph.ru/public_html/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /home/f0457801/domains/f0457801.xsph.ru/public_html/simplevk-master/src/vk_api.php(393): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /home/f0457801/domains/f0457801.xsph.ru/public_html/bot.php(181): DigitalStar\vk_api\vk_api->sendMessage(2000000009, '\xD0\x92\xD1\x8B \xD1\x83\xD0\xB6\xD0\xB5 \xD0\xB1\xD1...')
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":5,"error_msg":"User authorization failed: invalid access_token (4).","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"2000000009"},{"key":"keyboard","value":"{\"one_time\":false,\"buttons\":[[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"vivod\\\"}\",\"label\":\"\u0412\u044b\u0432\u043e\u0434 EFM Coins \u043d\u0430 \u041b\u041a - 1000 EFM Coins\"},\"color\":\"positive\"}],[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"nazad\\\"}\",\"label\":\"\u041d\u0430\u0437\u0430\u0434 \ud83c\udf99 \"},\"color\":\"default\"}]],\"inline\":false}"},{"key":"v","value":"5.103"},{"key":"random_id","value":"-477745483"}]}}
+[Exception]: код ошибки: 5
+[Exception]: файл: /home/f0457801/domains/f0457801.xsph.ru/public_html/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /home/f0457801/domains/f0457801.xsph.ru/public_html/simplevk-master/src/vk_api.php(420): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /home/f0457801/domains/f0457801.xsph.ru/public_html/bot.php(495): DigitalStar\vk_api\vk_api->sendButton(2000000009, '\xD0\x92\xD1\x8B\xD0\xB1\xD0\xB5\xD1\x80\xD0\xB8\xD1\x82\xD0...', Array)
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":5,"error_msg":"User authorization failed: invalid access_token (4).","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"2000000009"},{"key":"keyboard","value":"{\"one_time\":false,\"buttons\":[[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"prid\\\"}\",\"label\":\"\ud83d\udd25 \u041f\u0440\u043e\u043c\u043e\u043a\u043e\u0434\u044b\"},\"color\":\"negative\"}],[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"helpme\\\"}\",\"label\":\"\u041f\u043e\u043c\u043e\u0449\u044c\"},\"color\":\"positive\"}],[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"nazad\\\"}\",\"label\":\"\u041d\u0430\u0437\u0430\u0434 \ud83c\udf99 \"},\"color\":\"default\"}]],\"inline\":false}"},{"key":"v","value":"5.103"},{"key":"random_id","value":"-1448291005"}]}}
+[Exception]: код ошибки: 5
+[Exception]: файл: /home/f0457801/domains/f0457801.xsph.ru/public_html/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /home/f0457801/domains/f0457801.xsph.ru/public_html/simplevk-master/src/vk_api.php(420): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /home/f0457801/domains/f0457801.xsph.ru/public_html/bot.php(187): DigitalStar\vk_api\vk_api->sendButton(2000000009, '\xD0\x92\xD1\x8B \xD0\xBF\xD0\xBE\xD0\xBF\xD0\xB0\xD0\xBB...', Array)
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":5,"error_msg":"User authorization failed: invalid access_token (4).","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"2000000009"},{"key":"keyboard","value":"{\"one_time\":false,\"buttons\":[[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"vivod\\\"}\",\"label\":\"\u0412\u044b\u0432\u043e\u0434 EFM Coins \u043d\u0430 \u041b\u041a - 1000 EFM Coins\"},\"color\":\"positive\"}],[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"nazad\\\"}\",\"label\":\"\u041d\u0430\u0437\u0430\u0434 \ud83c\udf99 \"},\"color\":\"default\"}]],\"inline\":false}"},{"key":"v","value":"5.103"},{"key":"random_id","value":"383426672"}]}}
+[Exception]: код ошибки: 5
+[Exception]: файл: /home/f0457801/domains/f0457801.xsph.ru/public_html/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /home/f0457801/domains/f0457801.xsph.ru/public_html/simplevk-master/src/vk_api.php(420): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /home/f0457801/domains/f0457801.xsph.ru/public_html/bot.php(495): DigitalStar\vk_api\vk_api->sendButton(2000000009, '\xD0\x92\xD1\x8B\xD0\xB1\xD0\xB5\xD1\x80\xD0\xB8\xD1\x82\xD0...', Array)
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":5,"error_msg":"User authorization failed: invalid access_token (4).","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"2000000009"},{"key":"v","value":"5.103"},{"key":"random_id","value":"297680411"}]}}
+[Exception]: код ошибки: 5
+[Exception]: файл: /home/f0457801/domains/f0457801.xsph.ru/public_html/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /home/f0457801/domains/f0457801.xsph.ru/public_html/simplevk-master/src/vk_api.php(393): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /home/f0457801/domains/f0457801.xsph.ru/public_html/bot.php(361): DigitalStar\vk_api\vk_api->sendMessage(2000000009, '\xD0\x92\xD0\xB0\xD1\x88 \xD0\xBF\xD1\x80\xD0\xBE\xD1\x84...')
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":5,"error_msg":"User authorization failed: invalid access_token (4).","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"2000000009"},{"key":"v","value":"5.103"},{"key":"random_id","value":"-1694824155"}]}}
+[Exception]: код ошибки: 5
+[Exception]: файл: /home/f0457801/domains/f0457801.xsph.ru/public_html/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /home/f0457801/domains/f0457801.xsph.ru/public_html/simplevk-master/src/vk_api.php(393): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /home/f0457801/domains/f0457801.xsph.ru/public_html/bot.php(361): DigitalStar\vk_api\vk_api->sendMessage(2000000009, '\xD0\x92\xD0\xB0\xD1\x88 \xD0\xBF\xD1\x80\xD0\xBE\xD1\x84...')
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":5,"error_msg":"User authorization failed: invalid access_token (4).","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"2000000009"},{"key":"v","value":"5.103"},{"key":"random_id","value":"1890856800"}]}}
+[Exception]: код ошибки: 5
+[Exception]: файл: /home/f0457801/domains/f0457801.xsph.ru/public_html/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /home/f0457801/domains/f0457801.xsph.ru/public_html/simplevk-master/src/vk_api.php(393): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /home/f0457801/domains/f0457801.xsph.ru/public_html/bot.php(181): DigitalStar\vk_api\vk_api->sendMessage(2000000009, '\xD0\x92\xD1\x8B \xD1\x83\xD0\xB6\xD0\xB5 \xD0\xB1\xD1...')
+#2 {main}

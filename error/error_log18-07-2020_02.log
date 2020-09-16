@@ -1,0 +1,182 @@
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":901,"error_msg":"Can't send messages for users without permission","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"532208489"},{"key":"v","value":"5.103"},{"key":"random_id","value":"717238950"}]}}
+[Exception]: код ошибки: 901
+[Exception]: файл: /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php(393): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /var/www/lm_1121/data/www/boom-vk.tk/bot.php(200): DigitalStar\vk_api\vk_api->sendMessage(532208489, '\xD0\x92\xD1\x8B \xD0\xB2\xD1\x8B\xD0\xB8\xD0\xB3\xD1\x80...')
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":901,"error_msg":"Can't send messages for users without permission","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"532208489"},{"key":"v","value":"5.103"},{"key":"random_id","value":"59585618"}]}}
+[Exception]: код ошибки: 901
+[Exception]: файл: /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php(393): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /var/www/lm_1121/data/www/boom-vk.tk/bot.php(200): DigitalStar\vk_api\vk_api->sendMessage(532208489, '\xD0\x92\xD1\x8B \xD0\xBF\xD1\x80\xD0\xBE\xD0\xB8\xD0\xB3...')
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":901,"error_msg":"Can't send messages for users without permission","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"532208489"},{"key":"v","value":"5.103"},{"key":"random_id","value":"-2100909863"}]}}
+[Exception]: код ошибки: 901
+[Exception]: файл: /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php(393): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /var/www/lm_1121/data/www/boom-vk.tk/bot.php(200): DigitalStar\vk_api\vk_api->sendMessage(532208489, '\xD0\x92\xD1\x8B \xD0\xBF\xD1\x80\xD0\xBE\xD0\xB8\xD0\xB3...')
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":901,"error_msg":"Can't send messages for users without permission","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"532208489"},{"key":"v","value":"5.103"},{"key":"random_id","value":"-923528781"}]}}
+[Exception]: код ошибки: 901
+[Exception]: файл: /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php(393): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /var/www/lm_1121/data/www/boom-vk.tk/bot.php(200): DigitalStar\vk_api\vk_api->sendMessage(532208489, '\xD0\x92\xD1\x8B \xD0\xBF\xD1\x80\xD0\xBE\xD0\xB8\xD0\xB3...')
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":901,"error_msg":"Can't send messages for users without permission","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"532208489"},{"key":"v","value":"5.103"},{"key":"random_id","value":"784097066"}]}}
+[Exception]: код ошибки: 901
+[Exception]: файл: /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php(393): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /var/www/lm_1121/data/www/boom-vk.tk/bot.php(200): DigitalStar\vk_api\vk_api->sendMessage(532208489, '\xD0\x92\xD1\x8B \xD0\xBF\xD1\x80\xD0\xBE\xD0\xB8\xD0\xB3...')
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":901,"error_msg":"Can't send messages for users without permission","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"532208489"},{"key":"v","value":"5.103"},{"key":"random_id","value":"-1712304452"}]}}
+[Exception]: код ошибки: 901
+[Exception]: файл: /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php(393): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /var/www/lm_1121/data/www/boom-vk.tk/bot.php(200): DigitalStar\vk_api\vk_api->sendMessage(532208489, '\xD0\x92\xD1\x8B \xD0\xB2\xD1\x8B\xD0\xB8\xD0\xB3\xD1\x80...')
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":901,"error_msg":"Can't send messages for users without permission","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"532208489"},{"key":"v","value":"5.103"},{"key":"random_id","value":"-1764453591"}]}}
+[Exception]: код ошибки: 901
+[Exception]: файл: /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php(393): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /var/www/lm_1121/data/www/boom-vk.tk/bot.php(200): DigitalStar\vk_api\vk_api->sendMessage(532208489, '\xD0\x92\xD1\x8B \xD0\xB2\xD1\x8B\xD0\xB8\xD0\xB3\xD1\x80...')
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":901,"error_msg":"Can't send messages for users without permission","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"532208489"},{"key":"v","value":"5.103"},{"key":"random_id","value":"1832588709"}]}}
+[Exception]: код ошибки: 901
+[Exception]: файл: /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php(393): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /var/www/lm_1121/data/www/boom-vk.tk/bot.php(200): DigitalStar\vk_api\vk_api->sendMessage(532208489, '\xD0\x92\xD1\x8B \xD0\xB2\xD1\x8B\xD0\xB8\xD0\xB3\xD1\x80...')
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":901,"error_msg":"Can't send messages for users without permission","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"532208489"},{"key":"v","value":"5.103"},{"key":"random_id","value":"-662405889"}]}}
+[Exception]: код ошибки: 901
+[Exception]: файл: /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php(393): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /var/www/lm_1121/data/www/boom-vk.tk/bot.php(200): DigitalStar\vk_api\vk_api->sendMessage(532208489, '\xD0\x92\xD1\x8B \xD0\xBF\xD1\x80\xD0\xBE\xD0\xB8\xD0\xB3...')
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":901,"error_msg":"Can't send messages for users without permission","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"532208489"},{"key":"v","value":"5.103"},{"key":"random_id","value":"306290204"}]}}
+[Exception]: код ошибки: 901
+[Exception]: файл: /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php(393): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /var/www/lm_1121/data/www/boom-vk.tk/bot.php(200): DigitalStar\vk_api\vk_api->sendMessage(532208489, '\xD0\x92\xD1\x8B \xD0\xBF\xD1\x80\xD0\xBE\xD0\xB8\xD0\xB3...')
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":901,"error_msg":"Can't send messages for users without permission","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"532208489"},{"key":"v","value":"5.103"},{"key":"random_id","value":"-2099693914"}]}}
+[Exception]: код ошибки: 901
+[Exception]: файл: /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php(393): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /var/www/lm_1121/data/www/boom-vk.tk/bot.php(200): DigitalStar\vk_api\vk_api->sendMessage(532208489, '\xD0\x92\xD1\x8B \xD0\xB2\xD1\x8B\xD0\xB8\xD0\xB3\xD1\x80...')
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":901,"error_msg":"Can't send messages for users without permission","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"532208489"},{"key":"v","value":"5.103"},{"key":"random_id","value":"-1724230980"}]}}
+[Exception]: код ошибки: 901
+[Exception]: файл: /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php(393): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /var/www/lm_1121/data/www/boom-vk.tk/bot.php(200): DigitalStar\vk_api\vk_api->sendMessage(532208489, '\xD0\x92\xD1\x8B \xD0\xB2\xD1\x8B\xD0\xB8\xD0\xB3\xD1\x80...')
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":901,"error_msg":"Can't send messages for users without permission","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"532208489"},{"key":"v","value":"5.103"},{"key":"random_id","value":"2074584942"}]}}
+[Exception]: код ошибки: 901
+[Exception]: файл: /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php(393): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /var/www/lm_1121/data/www/boom-vk.tk/bot.php(200): DigitalStar\vk_api\vk_api->sendMessage(532208489, '\xD0\x92\xD1\x8B \xD0\xBF\xD1\x80\xD0\xBE\xD0\xB8\xD0\xB3...')
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":901,"error_msg":"Can't send messages for users without permission","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"532208489"},{"key":"v","value":"5.103"},{"key":"random_id","value":"1604638"}]}}
+[Exception]: код ошибки: 901
+[Exception]: файл: /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php(393): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /var/www/lm_1121/data/www/boom-vk.tk/bot.php(200): DigitalStar\vk_api\vk_api->sendMessage(532208489, '\xD0\x92\xD1\x8B \xD0\xBF\xD1\x80\xD0\xBE\xD0\xB8\xD0\xB3...')
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":901,"error_msg":"Can't send messages for users without permission","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"532208489"},{"key":"v","value":"5.103"},{"key":"random_id","value":"1678340265"}]}}
+[Exception]: код ошибки: 901
+[Exception]: файл: /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php(393): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /var/www/lm_1121/data/www/boom-vk.tk/bot.php(200): DigitalStar\vk_api\vk_api->sendMessage(532208489, '\xD0\x92\xD1\x8B \xD0\xBF\xD1\x80\xD0\xBE\xD0\xB8\xD0\xB3...')
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":901,"error_msg":"Can't send messages for users without permission","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"532208489"},{"key":"v","value":"5.103"},{"key":"random_id","value":"734851312"}]}}
+[Exception]: код ошибки: 901
+[Exception]: файл: /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php(393): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /var/www/lm_1121/data/www/boom-vk.tk/bot.php(200): DigitalStar\vk_api\vk_api->sendMessage(532208489, '\xD0\x92\xD1\x8B \xD0\xBF\xD1\x80\xD0\xBE\xD0\xB8\xD0\xB3...')
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":901,"error_msg":"Can't send messages for users without permission","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"532208489"},{"key":"v","value":"5.103"},{"key":"random_id","value":"1481274944"}]}}
+[Exception]: код ошибки: 901
+[Exception]: файл: /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php(393): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /var/www/lm_1121/data/www/boom-vk.tk/bot.php(200): DigitalStar\vk_api\vk_api->sendMessage(532208489, '\xD0\x92\xD1\x8B \xD0\xB2\xD1\x8B\xD0\xB8\xD0\xB3\xD1\x80...')
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":901,"error_msg":"Can't send messages for users without permission","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"532208489"},{"key":"v","value":"5.103"},{"key":"random_id","value":"1670993382"}]}}
+[Exception]: код ошибки: 901
+[Exception]: файл: /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php(393): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /var/www/lm_1121/data/www/boom-vk.tk/bot.php(200): DigitalStar\vk_api\vk_api->sendMessage(532208489, '\xD0\x92\xD1\x8B \xD0\xB2\xD1\x8B\xD0\xB8\xD0\xB3\xD1\x80...')
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":901,"error_msg":"Can't send messages for users without permission","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"532208489"},{"key":"v","value":"5.103"},{"key":"random_id","value":"-845973473"}]}}
+[Exception]: код ошибки: 901
+[Exception]: файл: /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php(393): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /var/www/lm_1121/data/www/boom-vk.tk/bot.php(200): DigitalStar\vk_api\vk_api->sendMessage(532208489, '\xD0\x92\xD1\x8B \xD0\xB2\xD1\x8B\xD0\xB8\xD0\xB3\xD1\x80...')
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":901,"error_msg":"Can't send messages for users without permission","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"532208489"},{"key":"v","value":"5.103"},{"key":"random_id","value":"1314128085"}]}}
+[Exception]: код ошибки: 901
+[Exception]: файл: /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php(393): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /var/www/lm_1121/data/www/boom-vk.tk/bot.php(200): DigitalStar\vk_api\vk_api->sendMessage(532208489, '\xD0\x92\xD1\x8B \xD0\xBF\xD1\x80\xD0\xBE\xD0\xB8\xD0\xB3...')
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":901,"error_msg":"Can't send messages for users without permission","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"532208489"},{"key":"v","value":"5.103"},{"key":"random_id","value":"-1187334939"}]}}
+[Exception]: код ошибки: 901
+[Exception]: файл: /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php(393): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /var/www/lm_1121/data/www/boom-vk.tk/bot.php(200): DigitalStar\vk_api\vk_api->sendMessage(532208489, '\xD0\x92\xD1\x8B \xD0\xB2\xD1\x8B\xD0\xB8\xD0\xB3\xD1\x80...')
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":901,"error_msg":"Can't send messages for users without permission","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"532208489"},{"key":"v","value":"5.103"},{"key":"random_id","value":"1264447379"}]}}
+[Exception]: код ошибки: 901
+[Exception]: файл: /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php(393): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /var/www/lm_1121/data/www/boom-vk.tk/bot.php(200): DigitalStar\vk_api\vk_api->sendMessage(532208489, '\xD0\x92\xD1\x8B \xD0\xBF\xD1\x80\xD0\xBE\xD0\xB8\xD0\xB3...')
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":901,"error_msg":"Can't send messages for users without permission","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"532208489"},{"key":"v","value":"5.103"},{"key":"random_id","value":"133108869"}]}}
+[Exception]: код ошибки: 901
+[Exception]: файл: /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php(393): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /var/www/lm_1121/data/www/boom-vk.tk/bot.php(200): DigitalStar\vk_api\vk_api->sendMessage(532208489, '\xD0\x92\xD1\x8B \xD0\xBF\xD1\x80\xD0\xBE\xD0\xB8\xD0\xB3...')
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":901,"error_msg":"Can't send messages for users without permission","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"532208489"},{"key":"v","value":"5.103"},{"key":"random_id","value":"1837537744"}]}}
+[Exception]: код ошибки: 901
+[Exception]: файл: /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php(393): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /var/www/lm_1121/data/www/boom-vk.tk/bot.php(200): DigitalStar\vk_api\vk_api->sendMessage(532208489, '\xD0\x92\xD1\x8B \xD0\xB2\xD1\x8B\xD0\xB8\xD0\xB3\xD1\x80...')
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":901,"error_msg":"Can't send messages for users without permission","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"532208489"},{"key":"v","value":"5.103"},{"key":"random_id","value":"1050753875"}]}}
+[Exception]: код ошибки: 901
+[Exception]: файл: /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php(393): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /var/www/lm_1121/data/www/boom-vk.tk/bot.php(200): DigitalStar\vk_api\vk_api->sendMessage(532208489, '\xD0\x92\xD1\x8B \xD0\xB2\xD1\x8B\xD0\xB8\xD0\xB3\xD1\x80...')
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":901,"error_msg":"Can't send messages for users without permission","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"532208489"},{"key":"v","value":"5.103"},{"key":"random_id","value":"-1671835668"}]}}
+[Exception]: код ошибки: 901
+[Exception]: файл: /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php(393): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /var/www/lm_1121/data/www/boom-vk.tk/bot.php(200): DigitalStar\vk_api\vk_api->sendMessage(532208489, '\xD0\x92\xD1\x8B \xD0\xB2\xD1\x8B\xD0\xB8\xD0\xB3\xD1\x80...')
+#2 {main}

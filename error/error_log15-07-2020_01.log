@@ -1,0 +1,56 @@
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":911,"error_msg":"Keyboard format is invalid: button [0][0] has invalid type","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"564375596"},{"key":"keyboard","value":"{\"one_time\":false,\"buttons\":[[{\"action\":{\"type\":\"n\",\"payload\":\"\\\"a\\\"\"}}]],\"inline\":false}"},{"key":"v","value":"5.103"},{"key":"random_id","value":"1770145940"}]}}
+[Exception]: код ошибки: 911
+[Exception]: файл: /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php(420): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /var/www/lm_1121/data/www/boom-vk.tk/bot.php(270): DigitalStar\vk_api\vk_api->sendButton(564375596, '\xD0\x9C\xD0\xB0\xD0\xB3\xD0\xB0\xD0\xB7\xD0\xB8\xD0\xBD ...', Array)
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":100,"error_msg":"One of the parameters specified was missing or invalid: message is empty or invalid","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"564375596"},{"key":"keyboard","value":"{\"one_time\":false,\"buttons\":[[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"tsto\\\"}\",\"label\":\"100 EFM Coins\"},\"color\":\"primary\"}],[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"petsot\\\"}\",\"label\":\"500 EFM Coins\"},\"color\":\"positive\"}],[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"tisha\\\"}\",\"label\":\"1000 EFM Coins\"},\"color\":\"negative\"}]],\"inline\":false}"},{"key":"v","value":"5.103"},{"key":"random_id","value":"1867668963"}]}}
+[Exception]: код ошибки: 100
+[Exception]: файл: /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php(420): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /var/www/lm_1121/data/www/boom-vk.tk/bot.php(112): DigitalStar\vk_api\vk_api->sendButton(564375596, '', Array)
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":100,"error_msg":"One of the parameters specified was missing or invalid: message is empty or invalid","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"564375596"},{"key":"keyboard","value":"{\"one_time\":false,\"buttons\":[[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"tsto\\\"}\",\"label\":\"100 EFM Coins\"},\"color\":\"primary\"}],[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"petsot\\\"}\",\"label\":\"500 EFM Coins\"},\"color\":\"positive\"}],[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"tisha\\\"}\",\"label\":\"1000 EFM Coins\"},\"color\":\"negative\"}]],\"inline\":false}"},{"key":"v","value":"5.103"},{"key":"random_id","value":"-529104929"}]}}
+[Exception]: код ошибки: 100
+[Exception]: файл: /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php(420): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /var/www/lm_1121/data/www/boom-vk.tk/bot.php(112): DigitalStar\vk_api\vk_api->sendButton(564375596, '', Array)
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":100,"error_msg":"One of the parameters specified was missing or invalid: message is empty or invalid","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"564375596"},{"key":"keyboard","value":"{\"one_time\":false,\"buttons\":[[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"tsto\\\"}\",\"label\":\"100 EFM Coins\"},\"color\":\"primary\"}],[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"petsot\\\"}\",\"label\":\"500 EFM Coins\"},\"color\":\"positive\"}],[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"tisha\\\"}\",\"label\":\"1000 EFM Coins\"},\"color\":\"negative\"}]],\"inline\":false}"},{"key":"v","value":"5.103"},{"key":"random_id","value":"1091565708"}]}}
+[Exception]: код ошибки: 100
+[Exception]: файл: /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php(420): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /var/www/lm_1121/data/www/boom-vk.tk/bot.php(112): DigitalStar\vk_api\vk_api->sendButton(564375596, '', Array)
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":100,"error_msg":"One of the parameters specified was missing or invalid: message is empty or invalid","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"564375596"},{"key":"keyboard","value":"{\"one_time\":false,\"buttons\":[[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"tsto\\\"}\",\"label\":\"100 EFM Coins\"},\"color\":\"primary\"}],[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"petsot\\\"}\",\"label\":\"500 EFM Coins\"},\"color\":\"positive\"}],[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"tisha\\\"}\",\"label\":\"1000 EFM Coins\"},\"color\":\"negative\"}]],\"inline\":false}"},{"key":"v","value":"5.103"},{"key":"random_id","value":"-1288047774"}]}}
+[Exception]: код ошибки: 100
+[Exception]: файл: /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php(420): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /var/www/lm_1121/data/www/boom-vk.tk/bot.php(112): DigitalStar\vk_api\vk_api->sendButton(564375596, '', Array)
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":911,"error_msg":"Keyboard format is invalid: button [0][0] has invalid type","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"564375596"},{"key":"keyboard","value":"{\"one_time\":false,\"buttons\":[[{\"action\":{\"type\":\"n\",\"payload\":\"\\\"a\\\"\"}}]],\"inline\":false}"},{"key":"v","value":"5.103"},{"key":"random_id","value":"1126716914"}]}}
+[Exception]: код ошибки: 911
+[Exception]: файл: /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php(420): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /var/www/lm_1121/data/www/boom-vk.tk/bot.php(270): DigitalStar\vk_api\vk_api->sendButton(564375596, '\xD0\x9C\xD0\xB0\xD0\xB3\xD0\xB0\xD0\xB7\xD0\xB8\xD0\xBD ...', Array)
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":911,"error_msg":"Keyboard format is invalid: button [0][0] has invalid type","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"564375596"},{"key":"keyboard","value":"{\"one_time\":false,\"buttons\":[[{\"action\":{\"type\":\"n\",\"payload\":\"\\\"a\\\"\"}}]],\"inline\":false}"},{"key":"v","value":"5.103"},{"key":"random_id","value":"230687572"}]}}
+[Exception]: код ошибки: 911
+[Exception]: файл: /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php(420): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /var/www/lm_1121/data/www/boom-vk.tk/bot.php(270): DigitalStar\vk_api\vk_api->sendButton(564375596, '\xD0\x9C\xD0\xB0\xD0\xB3\xD0\xB0\xD0\xB7\xD0\xB8\xD0\xBD ...', Array)
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":911,"error_msg":"Keyboard format is invalid: button [0][0] has invalid type","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"564375596"},{"key":"keyboard","value":"{\"one_time\":false,\"buttons\":[[{\"action\":{\"type\":\"n\",\"payload\":\"\\\"a\\\"\"}}]],\"inline\":false}"},{"key":"v","value":"5.103"},{"key":"random_id","value":"-709529821"}]}}
+[Exception]: код ошибки: 911
+[Exception]: файл: /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php(420): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /var/www/lm_1121/data/www/boom-vk.tk/bot.php(270): DigitalStar\vk_api\vk_api->sendButton(564375596, '\xD0\x9C\xD0\xB0\xD0\xB3\xD0\xB0\xD0\xB7\xD0\xB8\xD0\xBD ...', Array)
+#2 {main}

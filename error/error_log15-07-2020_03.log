@@ -1,0 +1,91 @@
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":911,"error_msg":"Keyboard format is invalid: button [0][0] has invalid type","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"564375596"},{"key":"keyboard","value":"{\"one_time\":false,\"buttons\":[[{\"action\":{\"type\":\"1\"}}],[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"nazad\\\"}\",\"label\":\"\u041d\u0430\u0437\u0430\u0434 \ud83c\udf99 \"},\"color\":\"default\"}]],\"inline\":false}"},{"key":"v","value":"5.103"},{"key":"random_id","value":"1257495886"}]}}
+[Exception]: код ошибки: 911
+[Exception]: файл: /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php(420): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /var/www/lm_1121/data/www/boom-vk.tk/bot.php(184): DigitalStar\vk_api\vk_api->sendButton(564375596, '\xD0\x92\xD1\x8B \xD0\xBF\xD0\xBE\xD0\xBF\xD0\xB0\xD0\xBB...', Array)
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":911,"error_msg":"Keyboard format is invalid: button [0][0] has invalid type","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"564375596"},{"key":"keyboard","value":"{\"one_time\":false,\"buttons\":[[{\"action\":{\"type\":\"1\"}}],[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"nazad\\\"}\",\"label\":\"\u041d\u0430\u0437\u0430\u0434 \ud83c\udf99 \"},\"color\":\"default\"}]],\"inline\":false}"},{"key":"v","value":"5.103"},{"key":"random_id","value":"-1988128711"}]}}
+[Exception]: код ошибки: 911
+[Exception]: файл: /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php(420): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /var/www/lm_1121/data/www/boom-vk.tk/bot.php(184): DigitalStar\vk_api\vk_api->sendButton(564375596, '\xD0\x92\xD1\x8B \xD0\xBF\xD0\xBE\xD0\xBF\xD0\xB0\xD0\xBB...', Array)
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":911,"error_msg":"Keyboard format is invalid: button [0][0] has invalid type","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"564375596"},{"key":"keyboard","value":"{\"one_time\":false,\"buttons\":[[{\"action\":{\"type\":\"1\"}}],[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"nazad\\\"}\",\"label\":\"\u041d\u0430\u0437\u0430\u0434 \ud83c\udf99 \"},\"color\":\"default\"}]],\"inline\":false}"},{"key":"v","value":"5.103"},{"key":"random_id","value":"1447699449"}]}}
+[Exception]: код ошибки: 911
+[Exception]: файл: /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php(420): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /var/www/lm_1121/data/www/boom-vk.tk/bot.php(184): DigitalStar\vk_api\vk_api->sendButton(564375596, '\xD0\x92\xD1\x8B \xD0\xBF\xD0\xBE\xD0\xBF\xD0\xB0\xD0\xBB...', Array)
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":911,"error_msg":"Keyboard format is invalid: button [0][0] has invalid type","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"564375596"},{"key":"keyboard","value":"{\"one_time\":false,\"buttons\":[[{\"action\":{\"type\":\"1\"}}],[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"nazad\\\"}\",\"label\":\"\u041d\u0430\u0437\u0430\u0434 \ud83c\udf99 \"},\"color\":\"default\"}]],\"inline\":false}"},{"key":"v","value":"5.103"},{"key":"random_id","value":"1195301866"}]}}
+[Exception]: код ошибки: 911
+[Exception]: файл: /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php(420): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /var/www/lm_1121/data/www/boom-vk.tk/bot.php(184): DigitalStar\vk_api\vk_api->sendButton(564375596, '\xD0\x92\xD1\x8B \xD0\xBF\xD0\xBE\xD0\xBF\xD0\xB0\xD0\xBB...', Array)
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":911,"error_msg":"Keyboard format is invalid: button [0][0] has invalid type","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"564375596"},{"key":"keyboard","value":"{\"one_time\":false,\"buttons\":[[{\"action\":{\"type\":\"1\"}}],[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"nazad\\\"}\",\"label\":\"\u041d\u0430\u0437\u0430\u0434 \ud83c\udf99 \"},\"color\":\"default\"}]],\"inline\":false}"},{"key":"v","value":"5.103"},{"key":"random_id","value":"368295494"}]}}
+[Exception]: код ошибки: 911
+[Exception]: файл: /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php(420): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /var/www/lm_1121/data/www/boom-vk.tk/bot.php(184): DigitalStar\vk_api\vk_api->sendButton(564375596, '\xD0\x92\xD1\x8B \xD0\xBF\xD0\xBE\xD0\xBF\xD0\xB0\xD0\xBB...', Array)
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":911,"error_msg":"Keyboard format is invalid: button [0][0] has invalid type","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"564375596"},{"key":"keyboard","value":"{\"one_time\":false,\"buttons\":[[{\"action\":{\"type\":\"0\"}}],[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"nazad\\\"}\",\"label\":\"\u041d\u0430\u0437\u0430\u0434 \ud83c\udf99 \"},\"color\":\"default\"}]],\"inline\":false}"},{"key":"v","value":"5.103"},{"key":"random_id","value":"-1269879836"}]}}
+[Exception]: код ошибки: 911
+[Exception]: файл: /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php(420): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /var/www/lm_1121/data/www/boom-vk.tk/bot.php(184): DigitalStar\vk_api\vk_api->sendButton(564375596, '\xD0\x92\xD1\x8B \xD0\xBF\xD0\xBE\xD0\xBF\xD0\xB0\xD0\xBB...', Array)
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":911,"error_msg":"Keyboard format is invalid: button [0][0] has invalid type","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"564375596"},{"key":"keyboard","value":"{\"one_time\":false,\"buttons\":[[{\"action\":{\"type\":\"1\"}}],[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"nazad\\\"}\",\"label\":\"\u041d\u0430\u0437\u0430\u0434 \ud83c\udf99 \"},\"color\":\"default\"}]],\"inline\":false}"},{"key":"v","value":"5.103"},{"key":"random_id","value":"2130088645"}]}}
+[Exception]: код ошибки: 911
+[Exception]: файл: /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php(420): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /var/www/lm_1121/data/www/boom-vk.tk/bot.php(184): DigitalStar\vk_api\vk_api->sendButton(564375596, '\xD0\x92\xD1\x8B \xD0\xBF\xD0\xBE\xD0\xBF\xD0\xB0\xD0\xBB...', Array)
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":911,"error_msg":"Keyboard format is invalid: button [0][0] has invalid type","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"564375596"},{"key":"keyboard","value":"{\"one_time\":false,\"buttons\":[[{\"action\":{\"type\":\"1\"}}],[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"nazad\\\"}\",\"label\":\"\u041d\u0430\u0437\u0430\u0434 \ud83c\udf99 \"},\"color\":\"default\"}]],\"inline\":false}"},{"key":"v","value":"5.103"},{"key":"random_id","value":"-1660693004"}]}}
+[Exception]: код ошибки: 911
+[Exception]: файл: /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php(420): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /var/www/lm_1121/data/www/boom-vk.tk/bot.php(184): DigitalStar\vk_api\vk_api->sendButton(564375596, '\xD0\x92\xD1\x8B \xD0\xBF\xD0\xBE\xD0\xBF\xD0\xB0\xD0\xBB...', Array)
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":911,"error_msg":"Keyboard format is invalid: button [0][0] has invalid type","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"564375596"},{"key":"keyboard","value":"{\"one_time\":false,\"buttons\":[[{\"action\":{\"type\":\"1\"}}],[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"nazad\\\"}\",\"label\":\"\u041d\u0430\u0437\u0430\u0434 \ud83c\udf99 \"},\"color\":\"default\"}]],\"inline\":false}"},{"key":"v","value":"5.103"},{"key":"random_id","value":"-858916223"}]}}
+[Exception]: код ошибки: 911
+[Exception]: файл: /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php(420): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /var/www/lm_1121/data/www/boom-vk.tk/bot.php(113): DigitalStar\vk_api\vk_api->sendButton(564375596, '\xD0\x92\xD1\x8B \xD0\xBF\xD0\xBE\xD0\xBF\xD0\xB0\xD0\xBB...', Array)
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":911,"error_msg":"Keyboard format is invalid: button [0][0] has invalid type","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"564375596"},{"key":"keyboard","value":"{\"one_time\":false,\"buttons\":[[{\"action\":{\"type\":\"1\"}}],[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"nazad\\\"}\",\"label\":\"\u041d\u0430\u0437\u0430\u0434 \ud83c\udf99 \"},\"color\":\"default\"}]],\"inline\":false}"},{"key":"v","value":"5.103"},{"key":"random_id","value":"71642231"}]}}
+[Exception]: код ошибки: 911
+[Exception]: файл: /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php(420): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /var/www/lm_1121/data/www/boom-vk.tk/bot.php(113): DigitalStar\vk_api\vk_api->sendButton(564375596, '\xD0\x92\xD1\x8B \xD0\xBF\xD0\xBE\xD0\xBF\xD0\xB0\xD0\xBB...', Array)
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":911,"error_msg":"Keyboard format is invalid: button [0][0] has invalid type","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"564375596"},{"key":"keyboard","value":"{\"one_time\":false,\"buttons\":[[{\"action\":{\"type\":\"1\"}}],[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"nazad\\\"}\",\"label\":\"\u041d\u0430\u0437\u0430\u0434 \ud83c\udf99 \"},\"color\":\"default\"}]],\"inline\":false}"},{"key":"v","value":"5.103"},{"key":"random_id","value":"969548718"}]}}
+[Exception]: код ошибки: 911
+[Exception]: файл: /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php(420): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /var/www/lm_1121/data/www/boom-vk.tk/bot.php(113): DigitalStar\vk_api\vk_api->sendButton(564375596, '\xD0\x92\xD1\x8B \xD0\xBF\xD0\xBE\xD0\xBF\xD0\xB0\xD0\xBB...', Array)
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":911,"error_msg":"Keyboard format is invalid: button [0][0] has invalid type","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"564375596"},{"key":"keyboard","value":"{\"one_time\":false,\"buttons\":[[{\"action\":{\"type\":\"1\"}}],[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"nazad\\\"}\",\"label\":\"\u041d\u0430\u0437\u0430\u0434 \ud83c\udf99 \"},\"color\":\"default\"}]],\"inline\":false}"},{"key":"v","value":"5.103"},{"key":"random_id","value":"589509444"}]}}
+[Exception]: код ошибки: 911
+[Exception]: файл: /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php(420): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /var/www/lm_1121/data/www/boom-vk.tk/bot.php(113): DigitalStar\vk_api\vk_api->sendButton(564375596, '\xD0\x92\xD1\x8B \xD0\xBF\xD0\xBE\xD0\xBF\xD0\xB0\xD0\xBB...', Array)
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":911,"error_msg":"Keyboard format is invalid: button [0][0] has invalid type","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"564375596"},{"key":"keyboard","value":"{\"one_time\":false,\"buttons\":[[{\"action\":{\"type\":\"1\"}}],[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"nazad\\\"}\",\"label\":\"\u041d\u0430\u0437\u0430\u0434 \ud83c\udf99 \"},\"color\":\"default\"}]],\"inline\":false}"},{"key":"v","value":"5.103"},{"key":"random_id","value":"-1529141685"}]}}
+[Exception]: код ошибки: 911
+[Exception]: файл: /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /var/www/lm_1121/data/www/boom-vk.tk/simplevk-master/src/vk_api.php(420): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /var/www/lm_1121/data/www/boom-vk.tk/bot.php(113): DigitalStar\vk_api\vk_api->sendButton(564375596, '\xD0\x92\xD1\x8B \xD0\xBF\xD0\xBE\xD0\xBF\xD0\xB0\xD0\xBB...', Array)
+#2 {main}

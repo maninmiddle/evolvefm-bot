@@ -1,0 +1,56 @@
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":911,"error_msg":"Keyboard format is invalid: button [1][0] has invalid type","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"488520842"},{"key":"keyboard","value":"{\"one_time\":false,\"buttons\":[[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"vivod\\\"}\",\"label\":\"\u0412\u044b\u0432\u043e\u0434 EFM Coins \u043d\u0430 \u041b\u041a - 1000 EFM Coins\"},\"color\":\"positive\"}],[{\"action\":{\"type\":null}}],[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"nazad\\\"}\",\"label\":\"\u041d\u0430\u0437\u0430\u0434 \ud83c\udf99 \"},\"color\":\"default\"}]],\"inline\":false}"},{"key":"v","value":"5.103"},{"key":"random_id","value":"582641316"}]}}
+[Exception]: код ошибки: 911
+[Exception]: файл: /home/f0457801/domains/f0457801.xsph.ru/public_html/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /home/f0457801/domains/f0457801.xsph.ru/public_html/simplevk-master/src/vk_api.php(420): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /home/f0457801/domains/f0457801.xsph.ru/public_html/bot.php(495): DigitalStar\vk_api\vk_api->sendButton(488520842, '\xD0\x92\xD1\x8B\xD0\xB1\xD0\xB5\xD1\x80\xD0\xB8\xD1\x82\xD0...', Array)
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":911,"error_msg":"Keyboard format is invalid: button [1][0] has invalid type","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"488520842"},{"key":"keyboard","value":"{\"one_time\":false,\"buttons\":[[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"vivod\\\"}\",\"label\":\"\u0412\u044b\u0432\u043e\u0434 EFM Coins \u043d\u0430 \u041b\u041a - 1000 EFM Coins\"},\"color\":\"positive\"}],[{\"action\":{\"type\":null}}],[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"nazad\\\"}\",\"label\":\"\u041d\u0430\u0437\u0430\u0434 \ud83c\udf99 \"},\"color\":\"default\"}]],\"inline\":false}"},{"key":"v","value":"5.103"},{"key":"random_id","value":"-751257030"}]}}
+[Exception]: код ошибки: 911
+[Exception]: файл: /home/f0457801/domains/f0457801.xsph.ru/public_html/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /home/f0457801/domains/f0457801.xsph.ru/public_html/simplevk-master/src/vk_api.php(420): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /home/f0457801/domains/f0457801.xsph.ru/public_html/bot.php(495): DigitalStar\vk_api\vk_api->sendButton(488520842, '\xD0\x92\xD1\x8B\xD0\xB1\xD0\xB5\xD1\x80\xD0\xB8\xD1\x82\xD0...', Array)
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":911,"error_msg":"Keyboard format is invalid: button [1][0] has invalid type","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"488520842"},{"key":"keyboard","value":"{\"one_time\":false,\"buttons\":[[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"vivod\\\"}\",\"label\":\"\u0412\u044b\u0432\u043e\u0434 EFM Coins \u043d\u0430 \u041b\u041a - 1000 EFM Coins\"},\"color\":\"positive\"}],[{\"action\":{\"type\":null}}],[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"nazad\\\"}\",\"label\":\"\u041d\u0430\u0437\u0430\u0434 \ud83c\udf99 \"},\"color\":\"default\"}]],\"inline\":false}"},{"key":"v","value":"5.103"},{"key":"random_id","value":"-1071854616"}]}}
+[Exception]: код ошибки: 911
+[Exception]: файл: /home/f0457801/domains/f0457801.xsph.ru/public_html/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /home/f0457801/domains/f0457801.xsph.ru/public_html/simplevk-master/src/vk_api.php(420): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /home/f0457801/domains/f0457801.xsph.ru/public_html/bot.php(495): DigitalStar\vk_api\vk_api->sendButton(488520842, '\xD0\x92\xD1\x8B\xD0\xB1\xD0\xB5\xD1\x80\xD0\xB8\xD1\x82\xD0...', Array)
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":911,"error_msg":"Keyboard format is invalid: button [1][0] has invalid type","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"488520842"},{"key":"keyboard","value":"{\"one_time\":false,\"buttons\":[[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"vivod\\\"}\",\"label\":\"\u0412\u044b\u0432\u043e\u0434 EFM Coins \u043d\u0430 \u041b\u041a - 1000 EFM Coins\"},\"color\":\"positive\"}],[{\"action\":{\"type\":null}}],[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"nazad\\\"}\",\"label\":\"\u041d\u0430\u0437\u0430\u0434 \ud83c\udf99 \"},\"color\":\"default\"}]],\"inline\":false}"},{"key":"v","value":"5.103"},{"key":"random_id","value":"-84946526"}]}}
+[Exception]: код ошибки: 911
+[Exception]: файл: /home/f0457801/domains/f0457801.xsph.ru/public_html/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /home/f0457801/domains/f0457801.xsph.ru/public_html/simplevk-master/src/vk_api.php(420): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /home/f0457801/domains/f0457801.xsph.ru/public_html/bot.php(495): DigitalStar\vk_api\vk_api->sendButton(488520842, '\xD0\x92\xD1\x8B\xD0\xB1\xD0\xB5\xD1\x80\xD0\xB8\xD1\x82\xD0...', Array)
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":911,"error_msg":"Keyboard format is invalid: button [1][0] has invalid type","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"488520842"},{"key":"keyboard","value":"{\"one_time\":false,\"buttons\":[[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"vivod\\\"}\",\"label\":\"\u0412\u044b\u0432\u043e\u0434 EFM Coins \u043d\u0430 \u041b\u041a - 1000 EFM Coins\"},\"color\":\"positive\"}],[{\"action\":{\"type\":null}}],[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"nazad\\\"}\",\"label\":\"\u041d\u0430\u0437\u0430\u0434 \ud83c\udf99 \"},\"color\":\"default\"}]],\"inline\":false}"},{"key":"v","value":"5.103"},{"key":"random_id","value":"1138699944"}]}}
+[Exception]: код ошибки: 911
+[Exception]: файл: /home/f0457801/domains/f0457801.xsph.ru/public_html/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /home/f0457801/domains/f0457801.xsph.ru/public_html/simplevk-master/src/vk_api.php(420): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /home/f0457801/domains/f0457801.xsph.ru/public_html/bot.php(495): DigitalStar\vk_api\vk_api->sendButton(488520842, '\xD0\x92\xD1\x8B\xD0\xB1\xD0\xB5\xD1\x80\xD0\xB8\xD1\x82\xD0...', Array)
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":911,"error_msg":"Keyboard format is invalid: button [1][0] has invalid type","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"488520842"},{"key":"keyboard","value":"{\"one_time\":false,\"buttons\":[[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"vivod\\\"}\",\"label\":\"\u0412\u044b\u0432\u043e\u0434 EFM Coins \u043d\u0430 \u041b\u041a - 1000 EFM Coins\"},\"color\":\"positive\"}],[{\"action\":{\"type\":null}}],[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"nazad\\\"}\",\"label\":\"\u041d\u0430\u0437\u0430\u0434 \ud83c\udf99 \"},\"color\":\"default\"}]],\"inline\":false}"},{"key":"v","value":"5.103"},{"key":"random_id","value":"83848184"}]}}
+[Exception]: код ошибки: 911
+[Exception]: файл: /home/f0457801/domains/f0457801.xsph.ru/public_html/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /home/f0457801/domains/f0457801.xsph.ru/public_html/simplevk-master/src/vk_api.php(420): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /home/f0457801/domains/f0457801.xsph.ru/public_html/bot.php(495): DigitalStar\vk_api\vk_api->sendButton(488520842, '\xD0\x92\xD1\x8B\xD0\xB1\xD0\xB5\xD1\x80\xD0\xB8\xD1\x82\xD0...', Array)
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":911,"error_msg":"Keyboard format is invalid: button [1][0] has invalid type","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"488520842"},{"key":"keyboard","value":"{\"one_time\":false,\"buttons\":[[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"vivod\\\"}\",\"label\":\"\u0412\u044b\u0432\u043e\u0434 EFM Coins \u043d\u0430 \u041b\u041a - 1000 EFM Coins\"},\"color\":\"positive\"}],[{\"action\":{\"type\":null}}],[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"nazad\\\"}\",\"label\":\"\u041d\u0430\u0437\u0430\u0434 \ud83c\udf99 \"},\"color\":\"default\"}]],\"inline\":false}"},{"key":"v","value":"5.103"},{"key":"random_id","value":"347570430"}]}}
+[Exception]: код ошибки: 911
+[Exception]: файл: /home/f0457801/domains/f0457801.xsph.ru/public_html/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /home/f0457801/domains/f0457801.xsph.ru/public_html/simplevk-master/src/vk_api.php(420): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /home/f0457801/domains/f0457801.xsph.ru/public_html/bot.php(495): DigitalStar\vk_api\vk_api->sendButton(488520842, '\xD0\x92\xD1\x8B\xD0\xB1\xD0\xB5\xD1\x80\xD0\xB8\xD1\x82\xD0...', Array)
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":911,"error_msg":"Keyboard format is invalid: button [1][0] has invalid type","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"488520842"},{"key":"keyboard","value":"{\"one_time\":false,\"buttons\":[[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"vivod\\\"}\",\"label\":\"\u0412\u044b\u0432\u043e\u0434 EFM Coins \u043d\u0430 \u041b\u041a - 1000 EFM Coins\"},\"color\":\"positive\"}],[{\"action\":{\"type\":null}}],[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"nazad\\\"}\",\"label\":\"\u041d\u0430\u0437\u0430\u0434 \ud83c\udf99 \"},\"color\":\"default\"}]],\"inline\":false}"},{"key":"v","value":"5.103"},{"key":"random_id","value":"1338397525"}]}}
+[Exception]: код ошибки: 911
+[Exception]: файл: /home/f0457801/domains/f0457801.xsph.ru/public_html/simplevk-master/src/vk_api.php:223
+[Exception]: путь ошибки: #0 /home/f0457801/domains/f0457801.xsph.ru/public_html/simplevk-master/src/vk_api.php(420): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 /home/f0457801/domains/f0457801.xsph.ru/public_html/bot.php(495): DigitalStar\vk_api\vk_api->sendButton(488520842, '\xD0\x92\xD1\x8B\xD0\xB1\xD0\xB5\xD1\x80\xD0\xB8\xD1\x82\xD0...', Array)
+#2 {main}
