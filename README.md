@@ -2,7 +2,7 @@
 
 ## Language: ru
 
-          ![alt tag](https://i.imgur.com/98KdQ98.png "Screen")​
+   ![alt tag](https://i.imgur.com/98KdQ98.png "Screen")​
 
 ### Features:
 - Daily bonus
